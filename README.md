@@ -1,4 +1,4 @@
 # Mask-detection
-This project helps us to classify who wore the mask and who didn't 
-I used keras library 
-At first it was overfitting so i used data augmentation
+The project helps us to classify whether a person in an image is wearing mask or not.
+
+The model is trained on the mask dataset with each grayscale image of the dimension, 64 X 64 pixels.
